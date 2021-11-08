@@ -2,4 +2,4 @@
 
 test
 
-server modify
+server modify -1git
